@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-07T14:35:54.035Z",
+  "updatedAt": "2026-10-07T18:13:32.132Z",
   "challenge": {
     "startDate": "2026-10-07",
     "days": 90,
@@ -55,17 +55,7 @@
       }
     }
   ],
-  "logs": {
-    "2026-10-07": {
-      "wealth": {
-        "done": true,
-        "topic": "Conservar llevors",
-        "minutes": 35,
-        "whatIDid": "Investigar com conservar llavors a llarg plaç",
-        "nextStep": "Posar-ho en pràctica"
-      }
-    }
-  },
+  "logs": {},
   "weeklyReviews": {},
   "backlog": []
 }
