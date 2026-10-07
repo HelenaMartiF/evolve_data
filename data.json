@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "updatedAt": "2026-10-07T10:11:28.399Z",
+  "challenge": {
+    "startDate": "2026-10-07",
+    "days": 90,
+    "why": "No estoy intentando cambiar toda mi vida en 90 días.\n\nEstoy entrenando algo más importante: la capacidad de cumplir acuerdos conmigo misma.\n\nMi objetivo no es hacerlo perfecto.\n\nMi objetivo es volver.",
+    "identity": [
+      "fuerte",
+      "disciplinada",
+      "independiente",
+      "técnicamente capaz",
+      "culta",
+      "autosuficiente",
+      "con presencia",
+      "económicamente libre"
+    ],
+    "createdAt": "2026-10-07T10:11:28.399Z"
+  },
+  "schedules": [
+    {
+      "effectiveFrom": "2026-10-07",
+      "days": {
+        "analogNight": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "korean": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "body": [
+          1,
+          3,
+          5
+        ],
+        "deliberateReading": [
+          0,
+          6
+        ],
+        "wealth": [
+          6
+        ],
+        "screenFree": [
+          0
+        ]
+      }
+    }
+  ],
+  "logs": {},
+  "weeklyReviews": {},
+  "backlog": []
+}
