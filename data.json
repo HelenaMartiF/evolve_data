@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-09T05:32:19.906Z",
+  "updatedAt": "2026-10-10T03:33:42.372Z",
   "challenge": {
     "startDate": "2026-10-07",
     "days": 90,
@@ -72,6 +72,12 @@
       "korean": {
         "done": true
       },
+      "analogNight": {
+        "phoneAway": true,
+        "reading": true
+      }
+    },
+    "2026-10-09": {
       "analogNight": {
         "phoneAway": true,
         "reading": true
