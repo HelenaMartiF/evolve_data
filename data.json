@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-13T11:03:18.779Z",
+  "updatedAt": "2026-10-13T11:03:23.365Z",
   "challenge": {
     "startDate": "2026-10-07",
     "days": 90,
@@ -119,8 +119,7 @@
     "2026-10-13": {
       "wealth": {
         "done": true
-      },
-      "note": "Politics"
+      }
     }
   },
   "weeklyReviews": {},
